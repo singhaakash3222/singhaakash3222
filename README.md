@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @singhaakash3222
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a Senior Software Engineer with 7+ years of experience in building scalable backend systems, automation workflows, and data-driven decision platforms.
+I specialize in transforming manual-heavy operations into intelligent automated systems that improve efficiency, accuracy, and business outcomes.
 
-<!---
-singhaakash3222/singhaakash3222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Key Achievements:
+• Built claim auto-approval system reducing manual effort significantly
+• Developed multi-region reporting systems with automated processing
+• Delivered end-to-end web applications (backend + frontend)
+• Improved system stability and performance under high load
+
+💡 Core Expertise:
+• Backend Development & System Design
+• Automation & Workflow Optimization
+• API Integrations & Data Processing
+• Performance Optimization & Scalability
+• Decision Engines & Validation Systems
+
+I don’t just write code — I solve business problems using technology.
